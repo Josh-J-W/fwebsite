@@ -1,0 +1,10 @@
+{
+  "description": "Create a personalized website featuring a responsive design with sections for home, about, projects, photography, blog, and contact, showcasing your unique identity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
